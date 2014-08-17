@@ -28,3 +28,4 @@ https://github.com/JakeWharton/DiskLruCache
 https://github.com/JakeWharton/NineOldAndroids  
 https://github.com/JorgeCastilloPrz/PagedHeadListView  
 https://github.com/jblough/Android-Pdf-Viewer-Library
+https://github.com/AltBeacon/android-beacon-library
