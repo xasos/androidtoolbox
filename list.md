@@ -1,4 +1,4 @@
-Temprary list until application structure is set up:
+Temprary list until application structure is set up:  
 https://github.com/Estimote/Android-SDK  
 https://github.com/square/picasso  
 https://github.com/pingpongboss/StandOut  
