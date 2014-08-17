@@ -19,3 +19,11 @@ https://github.com/MasDennis/Rajawali
 https://github.com/keyboardsurfer/Crouton
 https://github.com/square/Dagger
 https://code.google.com/p/android-query/
+http://loopj.com/android-async-http/
+https://github.com/rno/Android-ScrollBarPanel
+https://github.com/Todd-Davies/ProgressWheel
+https://github.com/square/otto
+https://github.com/JakeWharton/butterknife
+https://github.com/JakeWharton/DiskLruCache
+https://github.com/JakeWharton/NineOldAndroids
+https://github.com/JorgeCastilloPrz/PagedHeadListView
