@@ -27,3 +27,4 @@ https://github.com/JakeWharton/butterknife
 https://github.com/JakeWharton/DiskLruCache  
 https://github.com/JakeWharton/NineOldAndroids  
 https://github.com/JorgeCastilloPrz/PagedHeadListView  
+https://github.com/jblough/Android-Pdf-Viewer-Library
