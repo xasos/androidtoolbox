@@ -1,17 +1,12 @@
 'use strict';
 
-/**
- * @ngdoc function
- * @name androidtoolboxApp.controller:MainCtrl
- * @description
- * # MainCtrl
- * Controller of the androidtoolboxApp
- */
 angular.module('androidtoolboxApp')
-  .controller('MainCtrl', function ($scope) {
-    $scope.awesomeThings = [
-      'HTML5 Boilerplate',
-      'AngularJS',
-      'Karma'
-    ];
+  .controller('MainCtrl', function ($scope, $http) {
+
+    $scope.list = [{"name":"Estimote Android SDK","category":"Sensors","link":"https://github.com/Estimote/Android-SDK"},
+    {"name":"Picasso","nategory":"Images","link":"https://github.com/square/picasso"}];
+
+    // $http.get("./libraries.json").success(function (data) {
+    //     $scope.list = data;
+    // });
   });
