@@ -1,2 +1,8 @@
 [{"Name":"Estimote Android SDK","Category":"Sensors","Link":"https://github.com/Estimote/Android-SDK"},
-{"Name":"Picasso","Category":"Images","Link":"https://github.com/square/picasso"}]
+{"Name":"Picasso","Category":"Images","Link":"https://github.com/square/picasso"},
+{"Name":"StandOut","Category":"Services","Link":"https://github.com/pingpongboss/StandOut"},
+{"Name":"GSON","Category":"Data","Link":"https://code.google.com/p/google-gson"},
+{"Name":"Retrofit","Category":"Data","Link":"http://square.github.io/retrofit/"},
+{"Name":"Otto","Category":"Optimization","Link":"https://github.com/square/otto"},
+{"Name":"Otto","Category":"Optimization","Link":"https://github.com/square/otto"},
+{"Name":"Android-Beacon-Library","Category":"Sensors","Link":"https://github.com/AltBeacon/android-beacon-library"}]
