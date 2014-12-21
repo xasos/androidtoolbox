@@ -17,7 +17,7 @@ $ grunt build
 $ firebase deploy
 ```
 ## Contributing
-Have an awesome library to share? Simple. Fork this repo, edit [libraries.json](app/libraries.json) following the JSON pattern, and submit a PR.
+Have an awesome library to share? Simple. Fork this repo, edit [libraries.json](app/libraries.json) with your library following the existing pattern, and submit a PR.
 
 ## License
 [MIT License](LICENSE)
