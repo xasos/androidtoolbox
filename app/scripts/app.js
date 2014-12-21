@@ -1,13 +1,4 @@
 'use strict';
-
-/**
- * @ngdoc overview
- * @name androidtoolboxApp
- * @description
- * # androidtoolboxApp
- *
- * Main module of the application.
- */
 angular
   .module('androidtoolboxApp', [
     'ngAnimate',
@@ -28,6 +19,6 @@ angular
         controller: 'AboutCtrl'
       })
       .otherwise({
-        redirectTo: '/'
+        templateUrl: '404.html'
       });
   });
