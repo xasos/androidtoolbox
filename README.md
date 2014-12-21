@@ -1,7 +1,7 @@
 Android Toolbox
 ==============
 
-Library explorer for Android. Available soon at androidtoolbox.herokuapp.com
+Library explorer for Android. Available [here](xasos.github.io/androidtoolbox/).
 
 ## Building
 ```sh
