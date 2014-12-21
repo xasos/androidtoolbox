@@ -1,7 +1,7 @@
 Android Toolbox
 ==============
 
-Library explorer for Android. Available [here](xasos.github.io/androidtoolbox/).
+Library explorer for Android. Available [here](http://xasos.github.io/androidtoolbox/).
 
 ## Building
 ```sh
