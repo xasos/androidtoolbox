@@ -1,0 +1,31 @@
+<div class="container">
+  <div class="header">
+    <ul class="nav nav-pills pull-right">
+      <li class="active"><a ng-href="#">Home</a></li>
+      <li><a ng-href="#/about">About</a></li>
+    </ul>
+    <h3 class="text-muted">androidtoolbox</h3>
+  </div>
+
+<div class="jumbotron" ng-repeat="list in list" ng-click="">
+  <h1><a href="{{list.link}}">{{list.name}}</a></h1>
+  <p class="lead">
+    {{list.category}}
+  </p>
+  <p class><small>{{list.description}}</small></p>
+</div>
+
+<div class="row marketing">
+  <h4>HTML5 Boilerplate</h4>
+  <p>
+    HTML5 Boilerplate is a professional front-end template for building fast, robust, and adaptable web apps or sites.
+  </p>
+
+  <h4>Angular</h4>
+  <p>
+    AngularJS is a toolset for building the framework most suited to your application development.
+  </p>
+
+  <h4>Karma</h4>
+  <p>Spectacular Test Runner for JavaScript.</p>
+</div>
